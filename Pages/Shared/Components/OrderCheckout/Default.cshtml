@@ -1,0 +1,25 @@
+﻿@using Console8_ValidationUtils.ViewModels
+@model OrderCheckoutViewModel
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-8">
+
+        </div>
+        <div class="col-4">
+
+            <h3> Выбранные товары </h3>
+            <ul class="list-group">
+                @foreach(object item in Model.GetSelectedItems())
+                {
+                    <li class="list-group-item">
+                        @(await Component.InvokeAsync(item.GetType().GetTypeName(), item))
+                    </li>    
+                }
+                
+            </ul>
+
+
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.csproj.AssemblyReference.cache
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.AssemblyInfoInputs.cache
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.AssemblyInfo.cs
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.csproj.CoreCompileInputs.cache
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.MvcApplicationPartsAssemblyInfo.cs
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.MvcApplicationPartsAssemblyInfo.cache
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.RazorAssemblyInfo.cache
+D:\NetProjects\Console8_ValidationUtils\obj\Release\net5.0\Console8_ValidationUtils.RazorAssemblyInfo.cs

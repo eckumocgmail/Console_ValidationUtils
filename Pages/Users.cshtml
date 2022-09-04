@@ -1,0 +1,15 @@
+﻿@page
+@model Console8_ValidationUtils.Pages.UsersModel
+@{
+}
+@inject APIUsers users
+
+<h4>Сервисы</h4>
+@foreach(UserContext user in users.GetAll())
+{
+   
+    <div>
+        @user.Name
+    </div>
+    
+}

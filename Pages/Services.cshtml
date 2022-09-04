@@ -1,0 +1,15 @@
+﻿@page
+@model Console8_ValidationUtils.Pages.ServicesModel
+@{
+}
+@inject APIWebServices services
+
+<h4>Сервисы</h4>
+@foreach(Service service in services.GetAll())
+{
+   
+    <div>
+        @service.Name
+    </div>
+    
+}

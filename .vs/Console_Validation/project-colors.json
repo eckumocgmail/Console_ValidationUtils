@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d9489c8-33ee-49f2-868f-244ce873cdf8": {
+      "ProjectGuid": "3d9489c8-33ee-49f2-868f-244ce873cdf8",
+      "DisplayName": "Console_Validation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "a4d4a70e-0d22-440f-a386-9cc6b89b6366": {
+      "ProjectGuid": "a4d4a70e-0d22-440f-a386-9cc6b89b6366",
+      "DisplayName": "Console14_Xsd",
+      "ColorIndex": 1
+    },
+    "eb99365a-f5ec-4bae-85a7-ca938023e024": {
+      "ProjectGuid": "eb99365a-f5ec-4bae-85a7-ca938023e024",
+      "DisplayName": "Blazor_Login",
+      "ColorIndex": 2
+    },
+    "64e9baf2-aa3c-408f-877c-fb4ff1be4ff5": {
+      "ProjectGuid": "64e9baf2-aa3c-408f-877c-fb4ff1be4ff5",
+      "DisplayName": "Blazor_Tree",
+      "ColorIndex": 3
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Документы скриптов",
+      "ColorIndex": 4
+    },
+    "886ccbc5-3af4-43cd-825d-732e715cbd67": {
+      "ProjectGuid": "886ccbc5-3af4-43cd-825d-732e715cbd67",
+      "DisplayName": "Blazor_Components",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
